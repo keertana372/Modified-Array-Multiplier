@@ -20,7 +20,7 @@ This repository will represent the design and implementation of 4 bit modified a
 - [References](https://github.com/keertana372/Modified-Array-Multiplier/edit/main/README.md#references)
 
 # Abstract
-Multipliers are widely used for various application like signal processing. Multipliers are used for multiplication two binary data. There are different kinds of multipliers with their own advantages and disadvantages. We implemented an array multiplier in this work that has significantly more speed and consumes less area. It is designed using pseudo NMOS logic and the number of transistors is reduced from 2N to N+1, resulting in a smaller area.
+Multipliers are widely used for various application like signal processing. Multipliers are used for multiplication of two binary input data. There are different kinds of multipliers with their own advantages and disadvantages. We implemented an array multiplier in this work that has significantly more speed and consumes less area. It is designed using pseudo NMOS logic and the number of transistors is reduced from 2N to N+1, resulting in a smaller area.
 
 # Explanation of circuit
 An array multiplier is a digital combinational circuit used for multiplying two binary numbers by employing an array of full adders and half adders. This array is used for the nearly simultaneous addition of the various product terms involved. To form the various product terms, an array of AND gates is used before the Adder array. The multiplier circuit is based on the add shift algorithm. 
@@ -47,7 +47,7 @@ The advantages of array multiplier are,
 •	Easily pipelined
 •	Regular shape, easy to place and route
 
-# Pseudo NMOS
+# Pseudo NMOS Logic 
 Pseudo-NMOS logic with transistor count N+1 the pull up network is always as compared to the CMOS there is great reduction in number of transistors. Below is the figure of inverter implemented in pseudo-NMOS. PMOS devices are good pull up resistive loads because they are fast and compact. With a fan-in, it's a pseudo-NMOS gate because each input is connected to only one transistor, the burden on the transistor is reduced prior to the gate.Figure given below is Pseudo NMOS gate.
 
 ![image](https://user-images.githubusercontent.com/100711811/156217226-e1aea6f2-feba-4f90-9a05-8110a84ea887.png)
