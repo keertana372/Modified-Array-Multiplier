@@ -90,6 +90,9 @@ The pseudo-NMOS doesn’t offer any advantage for inverter in terms of area as c
 # Simulations
 ![image](https://user-images.githubusercontent.com/100711811/156218198-39c15226-6be2-4956-9c03-720709ef0b50.png)
 
+When given input as X=1011 & Y=1101 then the output we get Z=1000111.The array multiplier implemented with pseudoNMOS gives an advantage our CMOS in terms of number of
+transistors.The advantage of array multiplier implemented with pseudoNMOS has advantage in reduction of number of transistors. If implemented with CMOS number of transistors would be 260 and when implemented with Pseudo-NMOS number of transistors are176 and therefore there is reduction in number of area. 
+
 # Netlist 
 Refer to the netlist of the circuits here:[Netlist.txt](https://github.com/keertana372/Modified-Array-Multiplier/files/8163608/Netlist.txt)
 
