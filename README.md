@@ -100,10 +100,10 @@ Refer to the netlist of the circuits here:[Netlist.txt](https://github.com/keert
 Sirigibattula Keertana, MTech VLSI Design, Vellore Institute of Technology, Vellore.
 
 # Acknowledgements
--	Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
--	Cloud Based Analog IC Design Hackathon
--	Synopsys India
--	Chinmay panda, IIT Hyderabad
+-	[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+-	[Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+-	[Synopsys India](https://www.synopsys.com/)
+-	[Chinmay panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
 
 # References
 [1] M. C. Park, B. W. Lee, G. M. Kim and D. H. Kim, "Compact and fast multiplier using dual array tree structure," 1993 IEEE International Symposium on Circuits and Systems, 1993, pp. 1817- 1820 vol.3, doi: 10.1109/ISCAS.1993.394099.
